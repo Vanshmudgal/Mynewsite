@@ -1,0 +1,2 @@
+# Mynewsite
+Typing site
